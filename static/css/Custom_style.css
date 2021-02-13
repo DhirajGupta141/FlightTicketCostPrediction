@@ -1,0 +1,23 @@
+body {
+   background-color: yellow;
+    text-align: center;
+}
+
+.navbar {
+    background-color: black;
+}
+
+a {
+    color: pink;
+}
+
+a:hover {
+    color: gray;
+    cursor:pointer;
+}
+
+div{
+background-color: yellowgreen;
+
+}
+  
